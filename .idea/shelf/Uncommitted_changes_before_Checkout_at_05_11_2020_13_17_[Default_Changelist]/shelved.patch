@@ -1,0 +1,18 @@
+Index: gradle/wrapper/gradle-wrapper.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>#Thu Nov 05 09:56:02 CET 2020\r\ndistributionBase=GRADLE_USER_HOME\r\ndistributionPath=wrapper/dists\r\nzipStoreBase=GRADLE_USER_HOME\r\nzipStorePath=wrapper/dists\r\ndistributionUrl=https\\://services.gradle.org/distributions/gradle-6.1.1-all.zip\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1250
+===================================================================
+--- gradle/wrapper/gradle-wrapper.properties	(revision 3712c8b11ff4de5e37b77914c9838d508010ff74)
++++ gradle/wrapper/gradle-wrapper.properties	(date 1604578139026)
+@@ -1,6 +1,6 @@
+-#Thu Nov 05 09:56:02 CET 2020
++#Thu Nov 05 13:08:59 CET 2020
+ distributionBase=GRADLE_USER_HOME
+ distributionPath=wrapper/dists
+ zipStoreBase=GRADLE_USER_HOME
+ zipStorePath=wrapper/dists
+-distributionUrl=https\://services.gradle.org/distributions/gradle-6.1.1-all.zip
++distributionUrl=https\://services.gradle.org/distributions/gradle-6.5-all.zip
